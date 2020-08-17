@@ -2,7 +2,7 @@
 https://startum.co
 
 ## Netlify
-https://app.netlify.com/sites/startum/deploys
+https://app.netlify.com/sites/startumsite/deploys
 
 # Getting Started
 
