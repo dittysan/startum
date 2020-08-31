@@ -200,10 +200,9 @@ const IndexPage = ({ location }) => {
             </ul>
             <h4>Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - Sep 21st 11:59pm</li>
-              <li>Interviews [INVITE ONLY] - Sep 24th and Sep 25th</li>
-              <li>Social Event [INVITE ONLY] - Sep 28th</li>
-              <li>First Meeting for New Members - Sep 30th (Time TBD)</li>
+              <li>Application Due - Sep 16th 11:59pm</li>
+              <li>Interviews [INVITE ONLY] - Sep 21st and Sep 22nd</li>
+              <li>First Meeting for New Members - Sep 27th (Time TBD)</li>
             </ul>
             <h4>Apply:</h4>
             Our application is coming soon for the Fall 2020 Cohort. No
