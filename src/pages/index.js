@@ -194,7 +194,7 @@ const IndexPage = ({ location }) => {
           <p>
             <h4>Upcoming Info Sessions:</h4>
             <ul>
-              <li>BBA Meet the Clubs - Sep 2nd and 3rd | 4-6pm via Zoom</li>
+              <li>BBA Meet the Clubs - Sep 3rd | 4-6pm via Zoom</li>
               <li>Mass Meeting - Sep 6th | 7-8pm via Zoom</li>
               <li>Additional Info Sessions - TBD</li>
             </ul>
