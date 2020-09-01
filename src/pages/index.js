@@ -194,8 +194,8 @@ const IndexPage = ({ location }) => {
           <p>
             <h4>Upcoming Info Sessions:</h4>
             <ul>
-              <li>BBA Meet the Clubs - Sep 3rd | 4-6pm via Zoom</li>
-              <li>Mass Meeting - Sep 6th | 7-8pm via Zoom</li>
+              <li>BBA Meet the Clubs - Sep 3rd | 4-6pm via <a href="https://umich.zoom.us/j/91776751494">Zoom (Link)</a></li>
+              <li>Mass Meeting - Sep 6th | 7-8pm via <a href="https://umich.zoom.us/j/96451884587">Zoom (Link)</a></li>
               <li>Additional Info Sessions - TBD</li>
             </ul>
             <h4>Recruiting Dates:</h4>
@@ -213,7 +213,7 @@ const IndexPage = ({ location }) => {
             </a>
             .
           </p>
-          <Button href="https://forms.gle/WYR3cmZmrME3ffGy7" target="_blank">Apply</Button>
+          <Button href="https://forms.gle/WYR3cmZmrME3ffGy7" target="_blank">Application</Button>
         </ApplyContent>
       </Apply>
     </Layout>
