@@ -213,11 +213,7 @@ const IndexPage = ({ location }) => {
             </a>
             .
           </p>
-          <Button>Application (Coming Soon)</Button>
-          <span>&nbsp;&nbsp;&nbsp;</span>
-          <Button href="https://forms.gle/2KQgRMoZGJbz6nEQ9" target="_blank">
-            Sign Up for Email Updates
-          </Button>
+          <Button href="https://forms.gle/WYR3cmZmrME3ffGy7" target="_blank">Apply</Button>
         </ApplyContent>
       </Apply>
     </Layout>
@@ -226,4 +222,8 @@ const IndexPage = ({ location }) => {
 
 // put back in application button once we have application link
 // href="/" target="_blank"
+// <span>&nbsp;&nbsp;&nbsp;</span>
+//           <Button href="https://forms.gle/2KQgRMoZGJbz6nEQ9" target="_blank">
+//             Sign Up for Email Updates
+//           </Button>
 export default IndexPage
