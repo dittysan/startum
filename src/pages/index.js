@@ -190,35 +190,43 @@ const IndexPage = ({ location }) => {
       </Process>
       <Apply>
         <ApplyContent id="apply">
-          <h1>Fall 2020 Recruiting</h1>
+          <h1>Winter 2021 Recruiting</h1>
           <p>
             <h4>Upcoming Info Sessions:</h4>
             <ul>
-              <li>BBA Meet the Clubs - Sep 3rd | 4-6pm via Zoom <a href="https://umich.zoom.us/j/91776751494">(Link)</a></li>
-              <li>Mass Meeting - Sep 6th | 7-8pm via Zoom <a href="https://umich.zoom.us/j/96451884587">(Link)</a></li>
-              <li>Additional Info Sessions - TBD</li>
+              <li>Winter 2021 info sessions coming soon. Please check back later for updates</li>
             </ul>
             <h4>Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - Sep 16th 11:59pm</li>
-              <li>Interviews [INVITE ONLY] - Sep 21st and Sep 22nd</li>
-              <li>First Meeting for New Members - Sep 27th (Time TBD)</li>
+              <li>Winter 2021 recruiting dates coming soon. Please check back later for updates</li>
             </ul>
             <h4>Apply:</h4>
-            Our application is coming soon for the Fall 2020 Cohort. No
+            Our application is coming soon for the Winter 2021 Cohort. No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
-            <a href="mailto:StartUMboard2020@umich.edu">
-              StartUMboard2020@umich.edu
+            <a href="mailto:StartUMboard2021@umich.edu">
+              StartUMboard2021@umich.edu
             </a>
             .
           </p>
-          <Button href="https://forms.gle/WYR3cmZmrME3ffGy7" target="_blank">Apply Here</Button>
+          <Button href="https://forms.gle/7uZhXYu6QWSuhzS5A" target="_blank">
+            Sign Up for Email Updates
+          </Button>
         </ApplyContent>
       </Apply>
     </Layout>
   )
 }
+
+//put back in info sessions section
+// <li>BBA Meet the Clubs - Sep 3rd | 4-6pm via Zoom <a href="https://umich.zoom.us/j/91776751494">(Link)</a></li>
+//               <li>Mass Meeting - Sep 6th | 7-8pm via Zoom <a href="https://umich.zoom.us/j/96451884587">(Link)</a></li>
+//               <li>Additional Info Sessions - TBD</li>
+
+//recruiting dates
+// <li>Application Due - Sep 16th 11:59pm</li>
+// <li>Interviews [INVITE ONLY] - Sep 21st and Sep 22nd</li>
+// <li>First Meeting for New Members - Sep 27th (Time TBD)</li>
 
 // put back in application button once we have application link
 // href="/" target="_blank"
@@ -226,4 +234,6 @@ const IndexPage = ({ location }) => {
 //           <Button href="https://forms.gle/2KQgRMoZGJbz6nEQ9" target="_blank">
 //             Sign Up for Email Updates
 //           </Button>
+
+// <Button href="https://forms.gle/WYR3cmZmrME3ffGy7" target="_blank">Apply Here</Button>
 export default IndexPage
