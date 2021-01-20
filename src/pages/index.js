@@ -195,6 +195,7 @@ const IndexPage = ({ location }) => {
             <h4>Upcoming Info Sessions:</h4>
             <ul>
               <li>BBA Meet the Clubs - Jan 21st | 7-9pm via Zoom <a href="https://umich.zoom.us/j/97806185958">(Link)</a></li>
+              <li>Info Session - Jan 27th | 9-10pm via Zoom <a href="https://umich.zoom.us/j/92054734179">(Link)</a></li>
               <li>Additional Winter 2021 info sessions coming soon. Please check back later for updates</li>
             </ul>
             <h4>Recruiting Dates:</h4>
