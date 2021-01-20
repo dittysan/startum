@@ -196,11 +196,13 @@ const IndexPage = ({ location }) => {
             <ul>
               <li>BBA Meet the Clubs - Jan 21st | 7-9pm via Zoom <a href="https://umich.zoom.us/j/97806185958">(Link)</a></li>
               <li>Info Session - Jan 27th | 9-10pm via Zoom <a href="https://umich.zoom.us/j/92054734179">(Link)</a></li>
-              <li>Additional Winter 2021 info sessions coming soon. Please check back later for updates</li>
+              <li>Winterfest - Feb 1st-5th | Exact time/date TBD</li>
             </ul>
             <h4>Recruiting Dates:</h4>
             <ul>
-              <li>Winter 2021 recruiting dates coming soon. Please check back later for updates</li>
+              <li>Application Due - Feb 7th 11:59pm</li>
+              <li>Interviews [INVITE ONLY] - Feb 10th and Feb 11th</li>
+              <li>First Meeting for New Members - Feb 14th (Time TBD)</li>
             </ul>
             <h4>Apply:</h4>
             Our application is coming soon for the Winter 2021 Cohort. No
