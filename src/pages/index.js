@@ -216,7 +216,7 @@ const IndexPage = ({ location }) => {
           <Button href="https://forms.gle/7uZhXYu6QWSuhzS5A" target="_blank">
             Sign Up for Email Updates
           </Button>
-          <Button href="/" target="_blank" disabled>Application Coming Soon</Button>
+          <Button href="/" disabled>Application Coming Soon</Button>
         </ApplyContent>
       </Apply>
     </Layout>
