@@ -205,7 +205,7 @@ const IndexPage = ({ location }) => {
               <li>First Meeting for New Members - Feb 14th (Time TBD)</li>
             </ul>
             <h4>Apply:</h4>
-            Our application is coming soon for the Winter 2021 Cohort. No
+            Our application is open for the Winter 2021 Cohort. No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
             <a href="mailto:StartUMboard2021@umich.edu">
