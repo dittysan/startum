@@ -7,6 +7,9 @@ import Button, { ScrollButton } from '../components/button'
 
 import ross_exterior from '../images/ross_exterior.jpg'
 
+import linkedin_icon from '../images/Linkedin.png'
+import instagram_icon from '../images/Instagram.png'
+
 const Hero = styled.div`
   padding-top: 300px;
   background: linear-gradient(rgba(0, 208, 255, 0.9), rgba(0, 208, 255, 0.9)),
@@ -108,6 +111,27 @@ const ApplyContent = styled.div`
   }
 `
 
+//fixme later
+// const SocialIcons = () => {
+//   return (
+//     <View>
+//       <a href="https://www.linkedin.com/company/startum-entrepreneurship-umich/">
+//         <img 
+//           src={linkedin_icon} alt="Logo" 
+//           style={{borderRadius: 5, maxHeight: 30 }}
+//         />
+//       </a>
+//       <a href="https://www.instagram.com/startumich/">
+//         <img 
+//           src={instagram_icon} alt="Logo" 
+//           style={{borderRadius: 5, maxHeight: 30 }}
+//         />
+//       </a>
+//     </View>
+//   )
+
+// }
+
 const IndexPage = ({ location }) => {
   return (
     <Layout location={location}>
@@ -190,23 +214,31 @@ const IndexPage = ({ location }) => {
       </Process>
       <Apply>
         <ApplyContent id="apply">
-          <h1>Winter 2021 Recruiting</h1>
+          <h1>Recruiting</h1>
           <p>
-            <h4>Upcoming Info Sessions:</h4>
+            {/* <h4>Coming Next Semester!</h4> */}
+            <h4>Winter 21 Info Sessions:</h4>
+            {/* <ul>
+              <li>BBA Meet the Clubs - TBD</li>
+              <li>Festifall - TBD</li>
+
+            </ul> */}
             <ul>
-              <li>BBA Meet the Clubs - Jan 21st | 7-9pm via Zoom <a href="https://umich.zoom.us/j/97806185958">(Link)</a></li>
+              <li>BBA Meet the Clubs <a href="https://umich.zoom.us/j/97806185958">(Link)</a></li>
               <li>Info Session #1 - Jan 27th | 9-10pm via Zoom <a href="https://umich.zoom.us/j/92054734179">(Link)</a></li>
               <li>Info Session #2 - Feb 3rd | 9-10pm via Zoom <a href="https://umich.zoom.us/j/92054734179">(Link)</a></li>
               <li>Winterfest Day 1- Feb 1st | 6-8pm via Zoom <a href="https://umich.zoom.us/j/98160086253">(Link)</a></li>
             </ul>
-            <h4>Recruiting Dates:</h4>
+            <h4>Winter 21 Recruiting Dates:</h4>
             <ul>
               <li>Application Due - Feb 7th 11:59pm</li>
               <li>Interviews [INVITE ONLY] - Feb 10th and Feb 11th</li>
               <li>First Meeting for New Members - Feb 14th (Time TBD)</li>
             </ul>
             <h4>Apply:</h4>
-            Our application is open for the Winter 2021 Cohort. No
+            The application for the Winter 2021 cohort is closed and will open  next semester for 
+            the Fall 2021 Cohort. Sign up for recruiting updates below and we will notify you when 
+            the application opens! No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
             <a href="mailto:StartUMboard2021@umich.edu">
@@ -214,10 +246,23 @@ const IndexPage = ({ location }) => {
             </a>
             .
           </p>
-          <Button href="https://forms.gle/7uZhXYu6QWSuhzS5A" target="_blank">
-            Sign Up for Email Updates
+          <Button href="https://forms.gle/aybDzmH2zXovpcB7A" target="_blank">
+            Sign Up for Recruiting Updates
           </Button>
-          <Button href="https://forms.gle/mrGzSnFB4fnNcKwr7" target="_blank">Apply Here</Button>
+          <p style={{marginTop: '3%'}}>
+
+            <a href="https://michiganentrepreneursummit.com">Michigan Entrepreneur Summit</a>
+            <span>&nbsp;&nbsp;&nbsp;</span>
+            <a href="https://www.linkedin.com/company/startum-entrepreneurship-umich/">LinkedIn</a>
+            <span>&nbsp;&nbsp;&nbsp;</span>
+            <a href="https://www.instagram.com/startumich/">Instagram</a>
+           
+          </p>
+
+          
+    
+          
+          {/* <Button href="https://forms.gle/mrGzSnFB4fnNcKwr7" target="_blank">Apply Here</Button> */}
         </ApplyContent>
       </Apply>
     </Layout>
