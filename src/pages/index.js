@@ -217,28 +217,25 @@ const IndexPage = ({ location }) => {
           <h1>Recruiting</h1>
           <p>
             {/* <h4>Coming Next Semester!</h4> */}
-            <h4>Winter 21 Info Sessions:</h4>
+            <h4>Fall 21 Info Sessions:</h4>
             {/* <ul>
               <li>BBA Meet the Clubs - TBD</li>
               <li>Festifall - TBD</li>
 
             </ul> */}
             <ul>
-              <li>BBA Meet the Clubs <a href="https://umich.zoom.us/j/97806185958">(Link)</a></li>
-              <li>Info Session #1 - Jan 27th | 9-10pm via Zoom <a href="https://umich.zoom.us/j/92054734179">(Link)</a></li>
-              <li>Info Session #2 - Feb 3rd | 9-10pm via Zoom <a href="https://umich.zoom.us/j/92054734179">(Link)</a></li>
-              <li>Winterfest Day 1- Feb 1st | 6-8pm via Zoom <a href="https://umich.zoom.us/j/98160086253">(Link)</a></li>
+              <li>BBA Meet the Clubs - Sep 7th | 6-9pm Ross Basement</li>
+              <li>Info Session #1 - Sep 12th | 5-6pm B1580 </li>
             </ul>
-            <h4>Winter 21 Recruiting Dates:</h4>
+            <h4>Fall 21 Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - Feb 7th 11:59pm</li>
-              <li>Interviews [INVITE ONLY] - Feb 10th and Feb 11th</li>
-              <li>First Meeting for New Members - Feb 14th (Time TBD)</li>
+              <li>Application Due - Sep 22nd 11:59pm</li>
+              <li>Interviews [INVITE ONLY] - Sep 27th and Sep 28th</li>
+              <li>Social Event [INVITE ONLY] - Sep 30th</li>
+              <li>First Meeting for New Members - Oct 3rd (Time TBD)</li>
             </ul>
             <h4>Apply:</h4>
-            The application for the Winter 2021 cohort is closed and will open  next semester for 
-            the Fall 2021 Cohort. Sign up for recruiting updates below and we will notify you when 
-            the application opens! No
+            The application for the Fall 2021 cohort will be released on Tuesday September 7th. No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
             <a href="mailto:StartUMboard2021@umich.edu">
@@ -246,7 +243,7 @@ const IndexPage = ({ location }) => {
             </a>
             .
           </p>
-          <Button href="https://forms.gle/aybDzmH2zXovpcB7A" target="_blank">
+          <Button href="https://docs.google.com/forms/d/e/1FAIpQLScmohkenV8WBEJlT2wjS-XRWCs-84nXLADqp7uU2aRwNT09Ug/viewform?usp=sf_link" target="_blank">
             Sign Up for Recruiting Updates
           </Button>
           <p style={{marginTop: '3%'}}>
