@@ -246,6 +246,9 @@ const IndexPage = ({ location }) => {
           <Button href="https://docs.google.com/forms/d/e/1FAIpQLScmohkenV8WBEJlT2wjS-XRWCs-84nXLADqp7uU2aRwNT09Ug/viewform?usp=sf_link" target="_blank">
             Sign Up for Recruiting Updates
           </Button>
+          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSdC-zDWJeN4QHU2r8evdKblpE8J3SHq9_nzSDzrkcOR4gsIjA/viewform?usp=sf_link" target="_blank">
+            Apply here
+          </Button>
           <p style={{marginTop: '3%'}}>
 
             <a href="https://michiganentrepreneursummit.com">Michigan Entrepreneur Summit</a>
