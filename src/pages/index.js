@@ -217,25 +217,25 @@ const IndexPage = ({ location }) => {
           <h1>Recruiting</h1>
           <p>
             {/* <h4>Coming Next Semester!</h4> */}
-            <h4>Fall 21 Info Sessions:</h4>
+            <h4>Winter 22 Info Sessions:</h4>
             {/* <ul>
               <li>BBA Meet the Clubs - TBD</li>
               <li>Festifall - TBD</li>
 
             </ul> */}
             <ul>
-              <li>BBA Meet the Clubs - Sep 7th | 6-9pm Ross Basement</li>
-              <li>Info Session #1 - Sep 12th | 5-6pm B1580 </li>
+              <li>BBA Meet the Clubs - Jan 13th | 6-8pm Ross Winter Garden</li>
+              <li>Mass Meeting - Jan 19th | Room TBD</li>
             </ul>
-            <h4>Fall 21 Recruiting Dates:</h4>
+            <h4>Winter 22 Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - Sep 22nd 11:59pm</li>
-              <li>Interviews [INVITE ONLY] - Sep 27th and Sep 28th</li>
-              <li>Social Event [INVITE ONLY] - Sep 30th</li>
-              <li>First Meeting for New Members - Oct 3rd (Time TBD)</li>
+              <li>Application Due - Jan 24th 11:59pm</li>
+              <li>Interviews [INVITE ONLY] - Jan 27th and Sep 28th</li>
+              <li>Social Event [INVITE ONLY] - Jan 29th</li>
+              <li>First Meeting for New Members - Jan 30th (Time TBD)</li>
             </ul>
             <h4>Apply:</h4>
-            The application for the Fall 2021 cohort will be released on Tuesday September 7th. No
+            The application for the Winter 2022 cohort will be released on Wednesday January 13th. No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
             <a href="mailto:StartUMboard2021@umich.edu">
@@ -243,10 +243,10 @@ const IndexPage = ({ location }) => {
             </a>
             .
           </p>
-          <Button href="https://docs.google.com/forms/d/e/1FAIpQLScmohkenV8WBEJlT2wjS-XRWCs-84nXLADqp7uU2aRwNT09Ug/viewform?usp=sf_link" target="_blank">
+          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSesBYqKw7intVX6oC4847390UkQlkAwG7EErwNmlQ6kaqAFNw/viewform?usp=sf_link" target="_blank">
             Sign Up for Recruiting Updates
           </Button>
-          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSdC-zDWJeN4QHU2r8evdKblpE8J3SHq9_nzSDzrkcOR4gsIjA/viewform?usp=sf_link" target="_blank">
+          <Button href="https://startum.co/" target="_blank">
             Apply here
           </Button>
           <p style={{marginTop: '3%'}}>
