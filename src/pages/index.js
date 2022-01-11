@@ -224,7 +224,7 @@ const IndexPage = ({ location }) => {
 
             </ul> */}
             <ul>
-              <li>BBA Meet the Clubs - Jan 13th | 6-8pm Ross Winter Garden</li>
+              <li>BBA Meet the Clubs - Jan 13th | 6-8pm Ross Winter Garden | Zoom Link: https://umich.zoom.us/j/4915646670</li>
               <li>Mass Meeting - Jan 19th | Room TBD</li>
             </ul>
             <h4>Winter 22 Recruiting Dates:</h4>
