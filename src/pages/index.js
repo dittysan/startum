@@ -246,7 +246,7 @@ const IndexPage = ({ location }) => {
           <Button href="https://docs.google.com/forms/d/e/1FAIpQLSesBYqKw7intVX6oC4847390UkQlkAwG7EErwNmlQ6kaqAFNw/viewform?usp=sf_link" target="_blank">
             Sign Up for Recruiting Updates
           </Button>
-          <Button href="https://startum.co/" target="_blank">
+          <Button href="https://forms.gle/KX5Yhq4puuvxJkVz5" target="_blank">
             Apply here
           </Button>
           <p style={{marginTop: '3%'}}>
