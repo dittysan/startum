@@ -116,14 +116,14 @@ const ApplyContent = styled.div`
 //   return (
 //     <View>
 //       <a href="https://www.linkedin.com/company/startum-entrepreneurship-umich/">
-//         <img 
-//           src={linkedin_icon} alt="Logo" 
+//         <img
+//           src={linkedin_icon} alt="Logo"
 //           style={{borderRadius: 5, maxHeight: 30 }}
 //         />
 //       </a>
 //       <a href="https://www.instagram.com/startumich/">
-//         <img 
-//           src={instagram_icon} alt="Logo" 
+//         <img
+//           src={instagram_icon} alt="Logo"
 //           style={{borderRadius: 5, maxHeight: 30 }}
 //         />
 //       </a>
@@ -217,51 +217,45 @@ const IndexPage = ({ location }) => {
           <h1>Recruiting</h1>
           <p>
             {/* <h4>Coming Next Semester!</h4> */}
-            <h4>Winter 22 Info Sessions:</h4>
+            <h4>Winter 23 Info Sessions:</h4>
             {/* <ul>
               <li>BBA Meet the Clubs - TBD</li>
               <li>Festifall - TBD</li>
 
             </ul> */}
             <ul>
-              <li>BBA Meet the Clubs - Jan 13th | 6-8pm Ross Winter Garden | Zoom Link: https://umich.zoom.us/j/4915646670</li>
-              <li>Mass Meeting - Jan 19th | Room TBD</li>
+              <li>BBA Meet the Clubs - Jan 12th | 6-7 Ross Winter Garden</li>
+              <li>Mass Meeting - Jan 18th | 6pm Room TBD</li>
             </ul>
-            <h4>Winter 22 Recruiting Dates:</h4>
+            <h4>Winter 23 Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - Jan 24th 11:59pm</li>
-              <li>Interviews [INVITE ONLY] - Jan 27th and Sep 28th</li>
-              <li>Social Event [INVITE ONLY] - Jan 29th</li>
-              <li>First Meeting for New Members - Jan 30th (Time TBD)</li>
+              <li>Application Due - Jan 25th 11:59 pm</li>
+              <li>Interviews [INVITE ONLY] - TBD</li>
+              <li>Social Event [INVITE ONLY] - TBD</li>
+              <li>First Meeting for New Members - Feb 5th 8-9 pm (time subject to change)</li>
             </ul>
             <h4>Apply:</h4>
-            The application for the Winter 2022 cohort will be released on Wednesday January 13th. No
+            The application for the Winter 2023 cohort has been released. No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
-            <a href="mailto:StartUMboard2021@umich.edu">
-              StartUMboard2021@umich.edu
+            <a href="mailto:sbechar@umich.edu">
+              sbechar@umich.edu
             </a>
             .
           </p>
-          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSesBYqKw7intVX6oC4847390UkQlkAwG7EErwNmlQ6kaqAFNw/viewform?usp=sf_link" target="_blank">
-            Sign Up for Recruiting Updates
-          </Button>
-          <Button href="https://forms.gle/KX5Yhq4puuvxJkVz5" target="_blank">
+          <Button href="https://docs.google.com/forms/d/e/1FAIpQLScDEx22tj_0KT7tvoJsAjrELIgckqMD6CXJLIH8DrNUGe9Zdw/viewform?usp=pp_url" target="_blank">
             Apply here
           </Button>
           <p style={{marginTop: '3%'}}>
-
-            <a href="https://michiganentrepreneursummit.com">Michigan Entrepreneur Summit</a>
-            <span>&nbsp;&nbsp;&nbsp;</span>
             <a href="https://www.linkedin.com/company/startum-entrepreneurship-umich/">LinkedIn</a>
             <span>&nbsp;&nbsp;&nbsp;</span>
             <a href="https://www.instagram.com/startumich/">Instagram</a>
-           
+
           </p>
 
-          
-    
-          
+
+
+
           {/* <Button href="https://forms.gle/mrGzSnFB4fnNcKwr7" target="_blank">Apply Here</Button> */}
         </ApplyContent>
       </Apply>
