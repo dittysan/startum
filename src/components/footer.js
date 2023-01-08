@@ -49,7 +49,8 @@ const Footer = () => (
           <a href="https://en.wikipedia.org/wiki/File:Ross_School_Exterior.jpg">
             MichiganRoss via CC BY-SA 3.0
           </a>
-          . Website by <a href="https://nathanhleung.com">Nathan Leung</a>.
+          . Website created by <a href="https://nathanhleung.com">Nathan Leung </a>
+          and maintained by <a href="https://www.linkedin.com/in/samuel-bechar-2878ab1a9">Samuel Bechar</a>.
         </p>
       </Attribution>
     </FooterContent>
