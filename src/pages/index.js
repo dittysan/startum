@@ -225,11 +225,11 @@ const IndexPage = ({ location }) => {
             </ul> */}
             <ul>
               <li>BBA Meet the Clubs - Jan 12th | 6-7 Ross Winter Garden</li>
-              <li>Mass Meeting - Jan 18th | 6pm Room TBD</li>
+              <li>Office Hours for Questions - Jan 24th | 6-8pm Zoom link will be up soon</li>
             </ul>
             <h4>Winter 23 Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - Jan 25th 11:59 pm</li>
+              <li>Application Due - Jan 29th 11:59 pm</li>
               <li>Interviews [INVITE ONLY] - TBD</li>
               <li>Social Event [INVITE ONLY] - TBD</li>
               <li>First Meeting for New Members - Feb 5th 8-9 pm (time subject to change)</li>
