@@ -229,17 +229,16 @@ const IndexPage = ({ location }) => {
             </ul>
             <h4>Winter 23 Recruiting Dates:</h4>
             <ul>
-              <li>Application Due - Jan 29th 11:59 pm</li>
-              <li>Interviews [INVITE ONLY] - TBD</li>
+              <li>Application Due - Feb 10th 11:59 pm</li>
               <li>Social Event [INVITE ONLY] - TBD</li>
-              <li>First Meeting for New Members - Feb 5th 8-9 pm (time subject to change)</li>
+              <li>First Meeting for New Members - Feb 19th 8-9 pm (time subject to change)</li>
             </ul>
             <h4>Apply:</h4>
             The application for the Winter 2023 cohort has been released. No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
-            <a href="mailto:sbechar@umich.edu">
-              sbechar@umich.edu
+            <a href="mailto:StartUM2023@umich.edu">
+              StartUM2023@umich.edu
             </a>
             .
           </p>
