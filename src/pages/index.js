@@ -238,7 +238,7 @@ const IndexPage = ({ location }) => {
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
             <a href="mailto:StartUMBoard@umich.edu">
-              StartUM2023@umich.edu
+              StartUMBoard@umich.edu
             </a>
             .
           </p>
