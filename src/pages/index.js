@@ -237,7 +237,7 @@ const IndexPage = ({ location }) => {
             The application for the Winter 2023 cohort has been released. No
             experience is necessary and all grades and majors are welcome to
             apply. Contact the board by email if you have any questions at{' '}
-            <a href="mailto:StartUM2023@umich.edu">
+            <a href="mailto:StartUMBoard@umich.edu">
               StartUM2023@umich.edu
             </a>
             .
